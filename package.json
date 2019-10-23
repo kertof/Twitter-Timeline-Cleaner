@@ -1,0 +1,17 @@
+{
+  "name": "twitter-timeline-cleaner",
+  "version": "1.0.0",
+  "description": "Cleanup lame tweets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "diskdb": "^0.1.17",
+    "dotenv": "^8.0.0",
+    "enquirer": "^2.3.2",
+    "twitter": "^1.7.1"
+  },
+  "author": "kertof",
+  "license": "MIT"
+}
